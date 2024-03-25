@@ -9,5 +9,5 @@ ex:
 python
 import INST_GPP4323
 INST_GPP4323.connect()
->>INST_GPP4323.get_device_identity()
->>"GW INSTEK, GPP-3323,  SN: xxxxxxxx, Vx.xx "
+INST_GPP4323.get_device_identity()
+"GW INSTEK, GPP-3323,  SN: xxxxxxxx, Vx.xx "
